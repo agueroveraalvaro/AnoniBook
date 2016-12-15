@@ -1,4 +1,4 @@
-# README
+# Anonibook
 
 Proyecto básico donde se realizan post anonimamente para conocer gente de acuerdo a gustos.
 
